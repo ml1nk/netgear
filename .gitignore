@@ -1,7 +1,12 @@
+# artifacts
 __pycache__
-pythonenv*
-venv
-.venv
+.pytest*
+*.egg-info
+*/build/*
+*/dist/*
+
+
+# misc
 .coverage
 .idea/
 
